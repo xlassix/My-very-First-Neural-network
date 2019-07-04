@@ -1,1 +1,1 @@
-# My-very-First-Neural-network
+progress made over the month of july
