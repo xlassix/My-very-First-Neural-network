@@ -11,7 +11,7 @@ def drop(n,it):
     return islice(it,n,None)
 head=next
 tail=partial(drop,1)
-# Complete the kangaroo function below.
+# Complete the kangaroo function below
 
 
 def iterate(f,x):
